@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="nombreCap">nombre completo...</string>
+    <string name="fechaNacimientoCap">fecha De Nacimiento</string>
+    <string name="telefonoCap">telefono...</string>
+    <string name="emailCap">email...</string>
+    <string name="descripcionCap">descripcion...</string>
+    <string name="pnombre">nombre</string>
+    <string name="pfechaNacimiento">fecha De Nacimiento</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pdescripcion">descripcion</string>
+    <string name="nombre">"Jesus Serrano"</string>
+    <string name="telefono">"123-456-78"</string>
+    <string name="email">"mio@email.com"</string>
+</resources>
